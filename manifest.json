@@ -12,6 +12,11 @@
         "96": "logo96.png"
       }
     },
+    "browser_specific_settings": {
+      "gecko": {
+        "id": "pl-transportation-fines@example.com"
+      }
+    },    
   "icons": {
       "48": "logo48.png",
       "96": "logo96.png"

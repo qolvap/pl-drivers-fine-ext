@@ -58,6 +58,8 @@
   "devDependencies": {
     "@types/fast-levenshtein": "^0.0.4",
     "@types/fuzzy-search": "^2.1.5",
-    "postcss": "^8.4.33"
+    "generator-web-extension": "^0.0.5",
+    "postcss": "^8.4.33",
+    "yo": "^5.0.0"
   }
 }
